@@ -126,7 +126,6 @@ const Dashboard = () => {
             <span>Search [CTRL + K]</span>
           </div>
 
-          {/* Header Icons */}
           <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
             <IoLanguage style={{ fontSize: "20px", cursor: "pointer" }} />
             <BsBrightnessHigh style={{ fontSize: "20px", cursor: "pointer" }} />
