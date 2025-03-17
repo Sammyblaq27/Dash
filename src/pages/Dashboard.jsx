@@ -10,7 +10,7 @@ import { IoMdChatbubbles } from "react-icons/io";
 import { GoBook } from "react-icons/go";
 import { LuFiles, LuCalendarCheck2 } from "react-icons/lu";
 import { TbLayoutKanban } from "react-icons/tb";
-import "@/styles.css";
+import "./styles.css";
 
 
 const { Header, Content, Sider } = Layout;
